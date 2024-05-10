@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1704111978 source:c:\users\rafly\onedrive\desktop\file telkom\semester 3\struktur data\tubes\tubes last brow 2\gatau yagn keberapa\film.cpp
+	"film.h"
+
+1704111637 c:\users\rafly\onedrive\desktop\file telkom\semester 3\struktur data\tubes\tubes last brow 2\gatau yagn keberapa\film.h
+	<iostream>
+
+1704111654 source:c:\users\rafly\onedrive\desktop\file telkom\semester 3\struktur data\tubes\tubes last brow 2\gatau yagn keberapa\main.cpp
+	"film.h"
+
